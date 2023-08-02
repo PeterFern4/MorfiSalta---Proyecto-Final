@@ -1,0 +1,98 @@
+[
+   {
+      "ID": "1",
+      "Direccion": "Cordoba 46",
+      "Coordenadas": [
+         -24.790563,
+         -65.408438
+      ]
+   },
+   {
+      "ID": "2",
+      "Direccion": "Caseros 221",
+      "Coordenadas": [
+         -24.790188,
+         -65.405938
+      ]
+   },
+   {
+      "ID": "3",
+      "Direccion": "Cnel. Luis Burela 1",
+      "Coordenadas": [
+         -24.787813,
+         -65.437188
+      ]
+   },
+   {
+      "ID": "4",
+      "Direccion": "Caseros 263",
+      "Coordenadas": [
+         -24.790188,
+         -65.406437
+      ]
+   },
+   {
+      "ID": "5",
+      "Direccion": "Pje. Zorrilla 1",
+      "Coordenadas": [
+         -24.788321,
+         -65.402438
+      ]
+   },
+   {
+      "ID": "6",
+      "Direccion": "Av. San Martin 1126",
+      "Coordenadas": [
+         -24.792738,
+         -65.418937
+      ]
+   },
+   {
+      "ID": "7",
+      "Direccion": "Aniceto Latorre 782",
+      "Coordenadas": [
+         -24.773313,
+         -65.411687
+      ]
+   },
+   {
+      "ID": "8",
+      "Direccion": "Pellegrini 283",
+      "Coordenadas": [
+         -24.792938,
+         -65.415312
+      ]
+   },
+   {
+      "ID": "9",
+      "Direccion": "Av. Del Bicentenario De La Batalla De Salta 797",
+      "Coordenadas": [
+         -24.780437,
+         -65.403688
+      ]
+   },
+   {
+      "ID": "10",
+      "Direccion": "Av. Del Bicentenario De La Batalla De Salta 1096",
+      "Coordenadas": [
+         -24.776938,
+         -65.402938
+      ]
+   },
+   {
+      "ID": "11",
+      "Direccion": "Juramento 1149",
+      "Coordenadas": [
+         -24.775937,
+         -65.402812
+      ]
+   },
+   {
+      "ID": "12",
+      "Direccion": "Av. Del Bicentenario De La Batalla De Salta 1595",
+      "Coordenadas": [
+         -24.768437,
+         -65.398062
+      ]
+   }
+]

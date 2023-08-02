@@ -1,0 +1,253 @@
+[
+   {
+      "ID": "1",
+      "Nombre": "Dona Salta",
+      "Tipo de Cocina": "Regional",
+      "Ingredientes": [
+         "Legumbres",
+         "Huevos",
+         "Harinas",
+         "Carnes",
+         "Verduras",
+         "Especias",
+         "Lacteos",
+         "Azucar"
+      ],
+      "Precio Minimo": 2800.0,
+      "Precio Maximo": 4000.0,
+      "Popularidad": "popularidad",
+      "Disponibilidad": true,
+      "Ubicacion": "1",
+      "Imagen": "Imagenes/d-dona_salta.jpg"
+   },
+   {
+      "ID": "2",
+      "Nombre": "El Charrua",
+      "Tipo de Cocina": "Regional",
+      "Ingredientes": [
+         "Legumbres",
+         "Carnes",
+         "Lacteos",
+         "Huevos",
+         "Harinas",
+         "Verduras",
+         "Especias",
+         "Azucar"
+      ],
+      "Precio Minimo": 3000.0,
+      "Precio Maximo": 5000.0,
+      "Popularidad": "popularidad",
+      "Disponibilidad": true,
+      "Ubicacion": "2",
+      "Imagen": "Imagenes/d-el_charrua.jpg"
+   },
+   {
+      "ID": "3",
+      "Nombre": "La Casona Del Molino",
+      "Tipo de Cocina": "Regional",
+      "Ingredientes": [
+         "Legumbres",
+         "Carnes",
+         "Lacteos",
+         "Huevos",
+         "Harinas",
+         "Verduras",
+         "Especias",
+         "Azucar"
+      ],
+      "Precio Minimo": 2500.0,
+      "Precio Maximo": 4000.0,
+      "Popularidad": "popularidad",
+      "Disponibilidad": true,
+      "Ubicacion": "3",
+      "Imagen": "Imagenes/d-casona.jpg"
+   },
+   {
+      "ID": "4",
+      "Nombre": "La Posada Restaurant",
+      "Tipo de Cocina": "Regional - Variados",
+      "Ingredientes": [
+         "Legumbres",
+         "Fiambres",
+         "Carnes",
+         "Huevos",
+         "Lacteos",
+         "Harinas",
+         "Verduras",
+         "Especias",
+         "Azucar"
+      ],
+      "Precio Minimo": 1800.0,
+      "Precio Maximo": 2700.0,
+      "Popularidad": "popularidad",
+      "Disponibilidad": true,
+      "Ubicacion": "4",
+      "Imagen": "Imagenes/d-posada_restaurant.jpg"
+   },
+   {
+      "ID": "5",
+      "Nombre": "Trattoria Mamma Mia",
+      "Tipo de Cocina": "Italiana",
+      "Ingredientes": [
+         "Lacteos",
+         "Harinas",
+         "Huevos",
+         "Verduras",
+         "Azucar",
+         "Frutas",
+         "Carnes",
+         "Salsas"
+      ],
+      "Precio Minimo": 3000.0,
+      "Precio Maximo": 4500.0,
+      "Popularidad": "popularidad",
+      "Disponibilidad": true,
+      "Ubicacion": "5",
+      "Imagen": "Imagenes/d-mama_mia.jpg"
+   },
+   {
+      "ID": "6",
+      "Nombre": "Pena Boliche Balderrama",
+      "Tipo de Cocina": "Regional",
+      "Ingredientes": [
+         "Legumbres",
+         "Carnes",
+         "Lacteos",
+         "Huevos",
+         "Harinas",
+         "Verduras",
+         "Especias",
+         "Azucar"
+      ],
+      "Precio Minimo": 3500.0,
+      "Precio Maximo": 5000.0,
+      "Popularidad": "popularidad",
+      "Disponibilidad": true,
+      "Ubicacion": "6",
+      "Imagen": "Imagenes/d-balderrama.jpg"
+   },
+   {
+      "ID": "7",
+      "Nombre": "Sandwicheria Popeye",
+      "Tipo de Cocina": "Comida Rapida",
+      "Ingredientes": [
+         "Carnes",
+         "Harinas",
+         "Quesos",
+         "Fiambre",
+         "Huevos",
+         "Embutidos",
+         "Verduras",
+         "Aderezos"
+      ],
+      "Precio Minimo": 1500.0,
+      "Precio Maximo": 1800.0,
+      "Popularidad": "popularidad",
+      "Disponibilidad": true,
+      "Ubicacion": "7",
+      "Imagen": "Imagenes/d-popeye_sand.jpg"
+   },
+   {
+      "ID": "8",
+      "Nombre": "La Pomena Sandwiches",
+      "Tipo de Cocina": "Sandwiches Frios",
+      "Ingredientes": [
+         "Harinas",
+         "Fiambre",
+         "Quesos",
+         "Verduras",
+         "Carnes",
+         "Aderezos"
+      ],
+      "Precio Minimo": 450.0,
+      "Precio Maximo": 700.0,
+      "Popularidad": "popularidad",
+      "Disponibilidad": true,
+      "Ubicacion": "8",
+      "Imagen": "Imagenes/d-la_pomena.jpg"
+   },
+   {
+      "ID": "9",
+      "Nombre": "Soho Bar Y Resto",
+      "Tipo de Cocina": "Varias",
+      "Ingredientes": [
+         "Legumbres",
+         "Embutidos",
+         "Carnes",
+         "Verduras",
+         "Harinas",
+         "Azucar",
+         "Frutas",
+         "Salsas",
+         "Aderezos",
+         "Huevos",
+         "Lacteos",
+         "Especias"
+      ],
+      "Precio Minimo": 2000.0,
+      "Precio Maximo": 3200.0,
+      "Popularidad": "popularidad",
+      "Disponibilidad": true,
+      "Ubicacion": "9",
+      "Imagen": "Imagenes/d-soho_bar.jpg"
+   },
+   {
+      "ID": "10",
+      "Nombre": "El Cuate Taqueria",
+      "Tipo de Cocina": "Mexicana",
+      "Ingredientes": [
+         "Harinas",
+         "Carnes",
+         "Condimentos",
+         "Ajies",
+         "Verduras",
+         "Salsas"
+      ],
+      "Precio Minimo": 1200.0,
+      "Precio Maximo": 4000.0,
+      "Popularidad": "popularidad",
+      "Disponibilidad": true,
+      "Ubicacion": "10",
+      "Imagen": "Imagenes/d-el_cuate.jpg"
+   },
+   {
+      "ID": "11",
+      "Nombre": "Nur Comidas Arabes",
+      "Tipo de Cocina": "Arabe",
+      "Ingredientes": [
+         "Harinas",
+         "Carnes",
+         "Verduras",
+         "Embutidos",
+         "Condimentos"
+      ],
+      "Precio Minimo": 1800.0,
+      "Precio Maximo": 2900.0,
+      "Popularidad": "popularidad",
+      "Disponibilidad": true,
+      "Ubicacion": "11",
+      "Imagen": "Imagenes/d-nur_arabe.jpg"
+   },
+   {
+      "ID": "12",
+      "Nombre": "El Palacio De La Pizza",
+      "Tipo de Cocina": "Pizzeria",
+      "Ingredientes": [
+         "Harinas",
+         "Quesos",
+         "Huevos",
+         "Verduras",
+         "Salsas",
+         "Aderezos",
+         "Condimentos",
+         "Fiambres ",
+         "Ajies"
+      ],
+      "Precio Minimo": 3800.0,
+      "Precio Maximo": 7900.0,
+      "Popularidad": "popularidad",
+      "Disponibilidad": true,
+      "Ubicacion": "12",
+      "Imagen": "Imagenes/d-palacio_pizza.jpg"
+   }
+]
